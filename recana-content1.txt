@@ -1,3 +1,5 @@
 rencana content
 - membuat vidio jv script
+* es6
+* boostrap
 - memuat viodio framework
