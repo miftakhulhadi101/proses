@@ -1,8 +1,8 @@
 rencana content
-- membuat vidio jv script
-  ^ vue
+- membuat vidio jv script 
+ ^ vue
+ ^ javacript
 * es6
-* boostrap
 - struktur data dasar
 - memuat viodio framework
   ^ laravel
