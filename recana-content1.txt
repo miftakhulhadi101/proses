@@ -6,4 +6,5 @@ rencana content
 - struktur data dasar
 - memuat viodio framework
   ^ laravel
+  ^ react
 - phyton
