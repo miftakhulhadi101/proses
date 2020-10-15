@@ -1,5 +1,5 @@
 rencana membuat website
 - mengelola vidio
 - mengelola artikel
-- membuat layout
 - koneksi 
+- membuat vlog
