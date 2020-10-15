@@ -1,6 +1,9 @@
 rencana content
 - membuat vidio jv script
+  ^ vue
 * es6
 * boostrap
 - struktur data dasar
 - memuat viodio framework
+  ^ laravel
+- phyton
