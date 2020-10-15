@@ -2,6 +2,7 @@ rencana content
 - membuat vidio jv script 
  ^ vue
  ^ javacript
+ ^ angular
 * es6
 - struktur data dasar
 - memuat viodio framework
